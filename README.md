@@ -3,7 +3,7 @@ The code and data for the project: 'Modeling and Predicting High-Density Crowd D
 
 **FOLDERS**
 
-1. **data** -- contains all of the datasets used for this project.
+1. **data** -- contains all of the datasets used for this project, both the optical flows and raw videos.
 2. **models** -- contains all of the .pth files for the models trained on each experiment.
 3. **training_history** -- contains all of the training histories for each model and experiment saved as .csv
 4. **training_history_plots** -- contains all of the plots made for comparing the training histories of each model and experiment.
